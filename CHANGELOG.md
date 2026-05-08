@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/smarter-contact-team/react-native-actionsheet/compare/v1.0.1...v1.0.2) (2026-05-08)
+
+
+### Bug Fixes
+
+* clean import from mobile to library ([#9](https://github.com/smarter-contact-team/react-native-actionsheet/issues/9)) ([40beec3](https://github.com/smarter-contact-team/react-native-actionsheet/commit/40beec39b73bb78f07bfafff99b6229d8060326c))
+
 ## [1.0.1](https://github.com/smarter-contact-team/react-native-actionsheet/compare/v1.0.0...v1.0.1) (2026-04-30)
 
 
